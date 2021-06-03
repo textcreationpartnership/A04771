@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Keepe within compasse: or, The worthy legacie of a wise father to his beloued sonne teaching him how to liue richly in this world, and eternally happy in the world to come. Meete for all sorts of people whatsoeuer.</title>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04771</idno><idno type="EEBO-CITATION">99854347</idno>
+  <idno type="VID">19763</idno>
+  <idno type="EEBO-PROQUEST">2240904817</idno>
+  <idno type="STC">STC 14900</idno>
+  <idno type="STC">ESTC S119140</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854347e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1549:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Keepe within compasse: or, The worthy legacie of a wise father to his beloued sonne teaching him how to liue richly in this world, and eternally happy in the world to come. Meete for all sorts of people whatsoeuer.</title>
+                  <author>Trundle, John, attributed name.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The tenth impression.</edition>
+               </editionStmt>
+               <extent>[46] p.   </extent>
+               <publicationStmt>
+                  <publisher>[Printed for J. Wright,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1630]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initialed John T.; possibly by John Trundle.</note>
+                  <note>Printer's name from and publication date conjectured by STC.</note>
+                  <note>Running title reads: Keepe within compasse: or A direction for a good life.</note>
+                  <note>Signatures: A-C (-A8, blank?).</note>
+                  <note>Imperfect; cropped, with loss of imprint.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19763:1"/>
+            <pb facs="tcp:19763:1"/>
+            <p>Keepe within Compass <hi>OR,</hi> The worthy Legacie of a wise Father to his beloued Sonne; Teaching him, to liue richly in this world, and eternal<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>happy in the world to come.</hi>
+            </p>
+            <p>Meet for all sorts of people whatsoeuer. The tenth Impression.</p>
+            <figure/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19763:2"/>
+            <pb facs="tcp:19763:2"/>
+            <head>TO THE WOR<g ref="char:EOLhyphen"/>thy Gentleman, and his best respected Friend, M<seg rend="sup">r</seg>
+               <hi>Roger Taylor,</hi> all those good wishes his owne <hi>heart desireth.</hi>
+            </head>
+            <opener>
+               <salute>WORTHY SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE frequent Custome of this Age to chal<g ref="char:EOLhyphen"/>lenge Patrons, and to trouble their braines with bestowing vpon those Patrons <hi>Mountebanke Encomi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ms,</hi> hath no whit at all taken vp my minde, since no folly can be greedie thereof, but shall purchase wit e<g ref="char:EOLhyphen"/>nough for that purpose.</p>
+            <p>Suffice, it is my true knowledge of
+<pb facs="tcp:19763:3"/>you, and my truer loue vnto you, which makes me send this poore In<g ref="char:EOLhyphen"/>fant of my braine, and slender Col<g ref="char:EOLhyphen"/>lections to kisse your hand: which in as much as the root or centre is Ver<g ref="char:EOLhyphen"/>tue, the circumference that happy lift or bound, out of which no good man will willingly stray, and in which I know the goodnesse of your inclina<g ref="char:EOLhyphen"/>tion makes your delight to liue: o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom can I better bestow it, both in respect of the thing, which onely loo<g ref="char:EOLhyphen"/>keth vpon Vertue, and in respect of your selfe, who is not onely a louer, but a supporter of the vertuous? So that to conclude, if your acceptance shall say I haue done well, I will be<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue, all which are good (like you) will agree with me: who doth the contrary, I will laugh at, for he loues not Goodnesse.</p>
+            <closer>
+               <signed>
+                  <hi>Yours</hi> John T.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:19763:3"/>
+            <lg>
+               <l>
+                  <hi>PEruse this Dyall euery day,</hi>
+               </l>
+               <l>
+                  <hi>Wherein no houre must passe away,</hi>
+               </l>
+               <l>
+                  <hi>But by it thou shalt learne to finde</hi>
+               </l>
+               <l>
+                  <hi>Some iewell to inrich thy minde.</hi>
+               </l>
+               <l>
+                  <hi>Count one the first houre of thy breath:</hi>
+               </l>
+               <l>
+                  <hi>And all the rest to lead to death.</hi>
+               </l>
+               <l>
+                  <hi>Count Twelue thy dolefull passing-Bell,</hi>
+               </l>
+               <l>
+                  <hi>And so my Dyall shall goe well.</hi>
+               </l>
+            </lg>
+            <p>We must die all.</p>
+            <p>
+               <figure/>
+            </p>
+            <div type="hours">
+               <head>The Howers.</head>
+               <lg>
+                  <l n="1">One God, one Baptisme, and one Faith,</l>
+                  <l>One Truth there is, the Scripture saith.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:19763:4"/>
+                  <l n="2">Two Testaments the Old and New,</l>
+                  <l>We must acknowledge to be true.</l>
+               </lg>
+               <lg>
+                  <l n="3">Three Persons in the Trinitie,</l>
+                  <l>Doe make one God in Vnitie.</l>
+               </lg>
+               <lg>
+                  <l n="4">Foure holy Euangelists there are,</l>
+                  <l>Which Christs birth, life and death de<g ref="char:EOLhyphen"/>clare.</l>
+               </lg>
+               <lg>
+                  <l n="5">Fiue woūds the Iewes to our Sauiour gaue</l>
+                  <l>Whence flow'd the bloud that all mē saue.</l>
+               </lg>
+               <lg>
+                  <l n="6">Six dayes to labour is no wrong:</l>
+                  <l>For God himselfe did worke so long.</l>
+               </lg>
+               <lg>
+                  <l n="7">Seuen deadly Sinnes in man doe rest,</l>
+                  <l>Which once expell'd, mans soule is blest.</l>
+               </lg>
+               <lg>
+                  <l n="8">Eight in <hi>Noahs</hi> Arke alone were found,</l>
+                  <l>When in a flood the world lay drownd.</l>
+               </lg>
+               <lg>
+                  <l n="9">Nine Hirarchies of Angels raise,</l>
+                  <l>Both day and night <hi>Iehouabs</hi> praise.</l>
+               </lg>
+               <lg>
+                  <l n="10">Ten Statutes God to <hi>Moses</hi> gaue,</l>
+                  <l>Which broke or kept, doe spill or saue.</l>
+               </lg>
+               <lg>
+                  <l n="11">Eleuen aboue with God doe dwell,</l>
+                  <l>The twelfth burnes in perpetuall Hel!</l>
+               </lg>
+               <lg>
+                  <l n="12">Twelue attended on Gods Sonne,</l>
+                  <l>Twelue made the Creed: my Dial's done.</l>
+               </lg>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:19763:4"/>
+            <head>Keepe within Compasse: <hi>OR,</hi> A Direction for a good Life.</head>
+            <head type="sub">In Religion.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irst, my Sonne, vnderstand, that Religion is a Iustice of men towards GOD, or a diuine honouring of Him in the perfect and true knowledge of his Word; peculiar onely to men: It is the ground of all other vertues, and the onely meanes to vnite and reconcile man vnto God for his Saluation: And whosoeuer breaketh out of this life or circumference, strayeth through Atheisme into eternall damnation.</p>
+            <p>True Religion is the soule of Inno<g ref="char:EOLhyphen"/>cencie, moouing in an vnspotted Consci<g ref="char:EOLhyphen"/>ence.</p>
+            <pb facs="tcp:19763:5"/>
+            <p> To be doubtfull in Religion, is to be certaine of the greatest punishment.</p>
+            <p>True Religion hath thrée vertues to be knowne by: first, it serueth the true God: next, limiteth euery action by the Word: and lastly, reconciles Man to his Maker, if he doe pursue it.</p>
+            <p>The first precept from the wisest Phi<g ref="char:EOLhyphen"/>losopher, was to feare God: and the first law amongst good men, to increase Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>It is Faith and not Reason which tea<g ref="char:EOLhyphen"/>cheth men Religion.</p>
+            <p>Religion is the stay of the weake, the master of the ignorant, the Philosophy of the simple. As he that heareth without eares, can inserpret our prayers without our tongues; so a Religious man may pray and neuer open his lips.</p>
+            <p>Religion is the Oratory of the deuout, the remedie of sinne, the counsell of the iust, and the comfort of them in tribu<g ref="char:EOLhyphen"/>lation.</p>
+            <p>Religion is that absolute cleane beast, which cheweth the end, and diuides the boofe: for it makes a man ruminate and chaw holy meditations, till they giue diuine nourishment, and the one claw
+<pb facs="tcp:19763:5"/>pointeth man to the feare of God, the other to the loue of his neighbour.</p>
+            <p>He is happily religious, whom no feare troubleth, no sorrow consumeth, no fles<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly lust tormenteth, no desire of worldlly wealth afflicteth, nor any foolishnesse m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neth vnto mirth.</p>
+            <p>Religion teacheth men to pray: and no man is so happy as he whose life is a con<g ref="char:EOLhyphen"/>tinuall prayer.</p>
+            <p>Religion is the wings that beare the Soule vp to Heauen, and meditation the eye which onely can see God liuing.</p>
+            <p>Religious deuotion is a continuall dis<g ref="char:EOLhyphen"/>course or conference with God: for when thou readest, God speaked to thee; when thou prayest, thou talkest with God.</p>
+            <p>True Religion makes prayers ascend, that Grace may descend.</p>
+            <p>In thy deuotions fly thy iudgement on thy faith, not on thine experience: for faith is truth, experience but deceitfull.</p>
+            <p>To desire sufficient things is needlesse, for God will giue them vndemanded: but desire to be contented with such things as he bestoweth, for therein will consist thy happinesse.</p>
+            <p>Except true Religion make vs vnder<g ref="char:EOLhyphen"/>stand
+<pb facs="tcp:19763:6"/>God in his Word, our sight in but blindnesse, our vnderstanding ignorance, our wisdome foolishnesse, and our deuoti<g ref="char:EOLhyphen"/>on deuilishnesse.</p>
+            <p>Religion will teach thee to know that God is a most bright Sunne, which ari<g ref="char:EOLhyphen"/>seth vpon those that feare him, and goeth downe from them that are carelesse and prophane.</p>
+            <p>God sits in the highest Heauens: if thou wilt lift vp thy selfe vnto him, hée will slie from thee; but if thou humblest thy selfe before him, he will come downe vnto thee.</p>
+            <p>True Religion brings a man vp to Heauen, which is the seat of glory, the habitation of Angels, the resting place of the faithfull, farre beyond thought, and glorious beyond report.</p>
+            <p>Hee that bites of euery weeds, must needes taste poyson, and he that is of di<g ref="char:EOLhyphen"/>uers Religions, must needs meet with damnation.</p>
+            <p>Religion will make thee know well and doe well: and they are the onely two points belonging to Vertue.</p>
+            <p>As Plants measurably watred grow the better, but being watred too much,
+<pb facs="tcp:19763:6"/>and drowned and dye: so opinions in re<g ref="char:EOLhyphen"/>ligion mixt with moderation, are made sound and refreshed: but accompanied with too seuere curiositie, oft turne and conuert to heresie.</p>
+            <p>As a Ship with a sure Anchor may lye any where: so the minde ruled by religi<g ref="char:EOLhyphen"/>ous reason, is quiet at all seasons.</p>
+            <lg>
+               <l>
+                  <hi>Since holy Writ shewes vs Gods holy power,</hi>
+               </l>
+               <l>
+                  <hi>With pure heart adore him euery houre.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Begin thy dayes worke when the day begins,</hi>
+               </l>
+               <l>
+                  <hi>First blessing Gods thrice-blessed name deuout:</hi>
+               </l>
+               <l>
+                  <hi>And then at euening when thy labour ends,</hi>
+               </l>
+               <l>
+                  <hi>Praise him againe: so bring the day about.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Not voice, but vow, not lip, nor tongue but hart;</hi>
+               </l>
+               <l>
+                  <hi>Not sound, but soule, that God takes in good part.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>What Gods high hidden secrets are,</hi>
+               </l>
+               <l>
+                  <hi>waste not thy wits to learne:</hi>
+               </l>
+               <l>
+                  <hi>But being mortall, minde the things,</hi>
+               </l>
+               <l>
+                  <hi>that mortall men concerne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The Serpents sting, the Beasts sharpe tooth we shun:</hi>
+               </l>
+               <l>
+                  <hi>But from prophane men chiefly see thou run.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:19763:7"/>
+               <l>
+                  <hi>Learne of the learned and instruct thy friends,</hi>
+               </l>
+               <l>
+                  <hi>Knowledge conceal'd, both God and man of<g ref="char:EOLhyphen"/>fend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Shame not in ignorance to show</hi>
+               </l>
+               <l>
+                  <hi>thy willingnesse to learne:</hi>
+               </l>
+               <l>
+                  <hi>The shame is theirs that nothing know,</hi>
+               </l>
+               <l>
+                  <hi>nor no good will discerne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Against a iust Religions man</hi>
+               </l>
+               <l>
+                  <hi>contend not wickedly:</hi>
+               </l>
+               <l>
+                  <hi>For God in rigor will reuenge</hi>
+               </l>
+               <l>
+                  <hi>his wrong and iniury.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nature impart thee all that she can teach,</hi>
+               </l>
+               <l>
+                  <hi>And God supply where Nature cannot reach,</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:19763:7"/>
+            <head>Out of Compasse in Religion, is Atheisme.</head>
+            <p>WHo doubts of God with <hi>Pythago<g ref="char:EOLhyphen"/>ras,</hi> is an Infidell, who denieth God with <hi>Diagoras,</hi> is a Deuill.</p>
+            <p>Vice is the habitude of sinne, sinn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the act of the habitude, but want of Religion ground of both.</p>
+            <p>Lust bringeth short life, prodigalitie wretched life, but want of Religion assu<g ref="char:EOLhyphen"/>red and eternall damnation.</p>
+            <p>The sicknesse of age is Auarice, the errors of youth prophanenesse.</p>
+            <p>Craft putteth on him the habit of poli<g ref="char:EOLhyphen"/>cie, malice the shape of courage, rashnesse the title of valour, lewdnesse the image of pleasure, but want of Religion hath no cloake but curses.</p>
+            <p>If youth want Religion, old age can neuer know honesty.</p>
+            <p>Deceit is too familiar with wisdome, austeritie with temperance, pride with great minds, prodigalitie with liberalitie, rashnesse with fortitude, and superstition with Religion.</p>
+            <pb facs="tcp:19763:8"/>
+            <p> There is no greater signe of wicked<g ref="char:EOLhyphen"/>nesse, than open heresie.</p>
+            <p>Sermons gilt with words and not matter, are like Images that painted seeme faire, but lookt into, are found earth.</p>
+            <p>Who can be more vnfortunate than he that of necessitie will needs be irreligi<g ref="char:EOLhyphen"/>ous?</p>
+            <p>As sinne blinds the eyes of the pro<g ref="char:EOLhyphen"/>phane man, so punishments open them.</p>
+            <p>When prophane men are in the height of their iollitie, mischiefe is euer knock<g ref="char:EOLhyphen"/>ing at the doore.</p>
+            <p>A prophane man neuer seemes more vgly, than when he would dissemble or appeare religious.</p>
+            <p>A prophane man is the true shadow of the Deuill, and at the end he comes to be his substance.</p>
+            <p>An irreligious man trampleth good<g ref="char:EOLhyphen"/>nesse vnder foot like the grasse of the field, and preserueth vice as the flowers of the season, when all good men know, the first doth keepe fresh and flourisheth, the latter doth suddenly decay and withe<g ref="char:EOLhyphen"/>reth.</p>
+            <p>To make iests of Religion, of Chari<g ref="char:EOLhyphen"/>tie</p>
+            <pb facs="tcp:19763:8"/>
+            <p> Who feares not God, feares euery thing else he seeth.</p>
+            <p>He that mindes least good, euer affects the worst mischiefe.</p>
+            <lg>
+               <l>
+                  <hi>Knew'st thou one Moneth should end thy dayes</hi>
+               </l>
+               <l>
+                  <hi>it would giue cause of sorrow:</hi>
+               </l>
+               <l>
+                  <hi>And yet perhaps thou laugh'st to day,</hi>
+               </l>
+               <l>
+                  <hi>when thou must die to morrow.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Men trample grasse, and praise the flowers of May:</hi>
+               </l>
+               <l>
+                  <hi>Yet grasse is greene when flowers fade away.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Prophane men look what conscience you haue:</hi>
+               </l>
+               <l>
+                  <hi>For conscience both must damne you, and must saue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>By new sects to raise vp new names,</hi>
+               </l>
+               <l>
+                  <hi>is but a losing gaine:</hi>
+               </l>
+               <l>
+                  <hi>Euils on good mens ruines built</hi>
+               </l>
+               <l>
+                  <hi>to ruine turne againe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Who is a false Iudge, one day must appeare,</hi>
+               </l>
+               <l>
+                  <hi>So to be iudg'd as he hath iudged here.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Build thy house ne're so high:</hi>
+               </l>
+               <l>
+                  <hi>All delight in pleasure take:</hi>
+               </l>
+               <l>
+                  <hi>In the dust thou must lie,</hi>
+               </l>
+               <l>
+                  <hi>Till the last Trumpe thee awake:</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:19763:9"/>
+               <l>
+                  <hi>Therefore all is lost and spended,</hi>
+               </l>
+               <l>
+                  <hi>That to vertue is not intended.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>If thou wilt backe into thy Compasse get,</hi>
+               </l>
+               <l>
+                  <hi>These six faire Rules neere to thy conscience set:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Beat downe the euill: raise the iust:</hi>
+               </l>
+               <l>
+                  <hi>Learne best thy selfe to know:</hi>
+               </l>
+               <l>
+                  <hi>Hold holy Writ: and counsell keepe:</hi>
+               </l>
+               <l>
+                  <hi>Be patient in thy woe.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>Keepe within Compasse in Conuersation.</head>
+            <p>COnuersation is the maine body of ho<g ref="char:EOLhyphen"/>nestie, whose greatest branches are familiarity and friendship with good men, drawing the communitie of a perpetuall will to the fellowship of life: all which is founded and built by the profit of a long continued loue, and furnished with more pleasure than desire.</p>
+            <p>Let thy conuersation carry a perfect consent of all things appertaining as well
+<pb facs="tcp:19763:9"/>vnto God as man, with beneuolence and charity.</p>
+            <p>The loue of men to women is a thing common and of course: but the friend<g ref="char:EOLhyphen"/>ship of man to man infinite and immor<g ref="char:EOLhyphen"/>tall.</p>
+            <p>The fellowship and conuersation of a true friend in misery is alwayes sweet, and his counsels in prosperity are euer fortunate.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot thy conuersation with friendship haue a threefold lustre: the first in neigh<g ref="char:EOLhyphen"/>bourhood: the second in hospitality: and the last in thy particular loue.</p>
+            <p>If thy conuersation winne thee loue, either by bounty, or the studi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of vertue, it goes from a passion to an habit, and so leaueth the name of loue, and is called friendship, the which no time can vio<g ref="char:EOLhyphen"/>late.</p>
+            <p>Forget not in thy conuersation, that to begge any thing of thy friend is most dearely to buy it.</p>
+            <p>It is a most grieuous thing to try thy friends, yet must they be toucht, lest shi<g ref="char:EOLhyphen"/>ning like the Earbuncle, as if they had fire, they be found by the test to be with<g ref="char:EOLhyphen"/>out faith.</p>
+            <pb facs="tcp:19763:10"/>
+            <p> Striue to be in loue with vertue out of the inclination of thine <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e vertue: for it is but a slauish good which Lawes and extremity doe keepe from committing of euill.</p>
+            <p>Let wisdome propound discréet ends to thine affaires, and doe nothing rashly: for an honest foruey of things to come preuents ensuing repentance.</p>
+            <p>Let not the Sonne goe downe on thy wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, but whether insur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing or insured, offer reconciltation: for the peace-maker is blessed. If thy enemy doe it before thée, he conquers thee, and thou losest that blessing.</p>
+            <p>Let th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e owne brest be the Cabinet for thine owne secret counsels; and doe not beleeue that it is too hard for one but that it is enough for two, and a great deale too much for three.</p>
+            <p>Let neuer any malice make thee re<g ref="char:EOLhyphen"/>neale what the least friendship hath shut in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy bosome.</p>
+            <p>Let the choyce of thy friend be a iour<g ref="char:EOLhyphen"/>ney into the Indies, long in doing, but once chosen, keepe him to the end: for to want a friend, is to want vertue, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to change often, shewes incertaine honesty.</p>
+            <pb facs="tcp:19763:10"/>
+            <p> Let thy spéech be like <hi>Moses</hi> his, slow, but aduised, and forethinke the fitnesse of thy spéech before thine vtterance: affirme nothing but truth within thine owne knowledge, and rather be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent than speak to euill purpose.</p>
+            <p>In praising, be discréet without enuy: in saluting, courteous: in admonishing, friendly: in forgiuing, mercifull: in pro<g ref="char:EOLhyphen"/>mising faithfull: in recompencing, boun<g ref="char:EOLhyphen"/>tifull: and make not the reward of Ver<g ref="char:EOLhyphen"/>tue the gift of fauour.</p>
+            <p>Giue euery man the reuerence due to his place, but respect his goodnesse before his greatnesse.</p>
+            <p>Auoid pride in thy youth, disdaine it in thine age, and feare and suspect it at all seasons.</p>
+            <p>Pride hath two steps to climbe by, a low blood, and a great enuy.</p>
+            <p>Keepe thy foot from the doore of the Harlot, thy hand from the booke of the lender, thy longue from the slander of thy neighbour, thy societ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e from the drunkard and Epicure: for pouertie shall he their portion; and the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eeper shall be cloathed with ragges.</p>
+            <p>Beware of suretiship: it is the bird<g ref="char:EOLhyphen"/>lime
+<pb facs="tcp:19763:11"/>of the time, and lockes vp men in bolted cages.</p>
+            <p>Be not vnthriftie to spend too much loue on thy selfe; nor yet so extreme fru<g ref="char:EOLhyphen"/>gall, not to spend good wit and words to<g ref="char:EOLhyphen"/>gether. And howsoeuer thou studiest the highest things, let thy modestie looke for no rent from thy selfe but strangers. Way with the wise man, thou knowest nothing, but that thou knowest nothing.</p>
+            <p>Rule those that liue vnder thée, rather with loue than feare: the first is safe, the latter dangerous.</p>
+            <p>In hearing centrouersied, cleanse thine eares from the wax of other mens re<g ref="char:EOLhyphen"/>ports, and lend the one to the accuser, the other to the accused: and let the cause of the poore and needy come in equall bal<g ref="char:EOLhyphen"/>lance with the rich and mightie: and if by aduantagious wealth any mountaines he raised to obscure the poore val ey, p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> downe the first, and raise vp the latter till both come to an euen leuell.</p>
+            <p>Make not recreation an occupation, for the too much vse thereof conuerts to poyson, and like a surset of honey cannot bée cured wishout digesting of worme<g ref="char:EOLhyphen"/>wood.</p>
+            <lg>
+               <pb facs="tcp:19763:11"/>
+               <l>
+                  <hi>If thou suruey the liues of men,</hi>
+               </l>
+               <l>
+                  <hi>and manners of the time:</hi>
+               </l>
+               <l>
+                  <hi>While each reproones anothers fault,</hi>
+               </l>
+               <l>
+                  <hi>looke who is void of crime.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lone not vild things,</hi>
+               </l>
+               <l>
+                  <hi>how faire soe're they seeme:</hi>
+               </l>
+               <l>
+                  <hi>Tis vertue, and not wealth,</hi>
+               </l>
+               <l>
+                  <hi>wise men esteeme.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Be constant, but if cause require,</hi>
+               </l>
+               <l>
+                  <hi>vnstable seeme to be:</hi>
+               </l>
+               <l>
+                  <hi>Wise men their conuersations change,</hi>
+               </l>
+               <l>
+                  <hi>and yet some faults are free.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Argue not with a man</hi>
+               </l>
+               <l>
+                  <hi>who's nought but words:</hi>
+               </l>
+               <l>
+                  <hi>Spe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch, but not wisdome,</hi>
+               </l>
+               <l>
+                  <hi>Nature vs affords.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>So loue thy friend, as to thy selfe</hi>
+               </l>
+               <l>
+                  <hi>a louing friend thou be:</hi>
+               </l>
+               <l>
+                  <hi>So bound thy bountie to the best,</hi>
+               </l>
+               <l>
+                  <hi>that harme pursue not thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The better to supply thy want,</hi>
+               </l>
+               <l>
+                  <hi>spare what thy hand hath got:</hi>
+               </l>
+               <l>
+                  <hi>And that thou maist thy penny saue,</hi>
+               </l>
+               <l>
+                  <hi>suppose thou hast it not.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:19763:12"/>
+            <head>Without Compasse in Conuersation is Luxurie.</head>
+            <p>THe smile of a Foe that procéedeth of enuy, is worse than the teare of a Friend procéeding of pitty.</p>
+            <p>There can be no amitie where there is no vertue, and that friendship is most hatefull and accursed, where some be<g ref="char:EOLhyphen"/>come friends, to doe vnto others mis<g ref="char:EOLhyphen"/>chiefe.</p>
+            <p>A false friend is like quick-siluer vnto gold, it cleaues vnto it, and séemes as if it would neuer forsake it, but if it once come into the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re, it presently slies away in fume, and though the gold remaine, yet is the siluer neuer more to be disce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ned: and such is a sayned friend in the time of tribulation.</p>
+            <p>He that is immoderate in his laughter, or too audacious in his speech, in the one expresseth his folly, in the other his pride.</p>
+            <p>He whose sad countenance is euer void of all alacritie, hath a proud heart emptie of all humilitie.</p>
+            <pb facs="tcp:19763:12"/>
+            <p> A man of ill conuersation may slaun<g ref="char:EOLhyphen"/>der his neighbour foure seuerall wayes: first, in his silence, when hee saith no<g ref="char:EOLhyphen"/>thing, and yet can truly cleare an impu<g ref="char:EOLhyphen"/>tation falsely affirmed: secondly, in wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ting, casting out libels that are false and vniustifiable: thirdly, in doubts, by drawing away the good opinions of other men: and lastly, in his author<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie, by ma<g ref="char:EOLhyphen"/>king such as trust him, beleeue vntruths and falshoods.</p>
+            <p>Who sweares for lucre or gaine of money, goes but a haires bredth from per<g ref="char:EOLhyphen"/>iury, (though his oath he iust,) for the sin of couetousnesse will consound him.</p>
+            <p>Those which haue no care but to heape vp riches, and are not able to imploy them, are like those wen which haue goodly horses, but know not how to ride them.</p>
+            <p>He that doth good to the wicked, is like him that g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at to another mans dog, for they barke at him as well as at others.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>xurie</hi> is a ple sure bought with paine, a delight hat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t with <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>quiet, a content passed with feare, and a sinne sini<g ref="char:EOLhyphen"/>shed with sorrow.</p>
+            <pb facs="tcp:19763:13"/>
+            <p>
+               <hi>Luxurie</hi> is an enemy to the purse, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foe to the person, a canker to the minde a corrosiue to the conscience, a weakn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the wit, a besotter of the senses, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lastly, a mortall bane to the whole body so that who so liues out of compasse <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this wildernesse, shall finde pleasure s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pati<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay to perdition, and <hi>Luxurie</hi> th<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> loadstone to vtter ruine.</p>
+            <p>The iealous man liuing dies, and dy<g ref="char:EOLhyphen"/>ing prolongs out his life in passions wo<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> than death, he sées none but with suspiti<g ref="char:EOLhyphen"/>on, heares no man knock but with ama<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment, nor interprets any discourse but to dishonest purpose: If his Wife frowne she hates him; if she smile, she hath ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> successe in Adultery: modesty, is dissimu<g ref="char:EOLhyphen"/>lation, fauour is a decree of false dealing, and in conclusion nothing can he see but doubts and frenzie.</p>
+            <p>Enuy shooteth at others: but for the most part euermore woundeth her selfe. Enuy is the filthy sti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and impostume of the soule, a perp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tuall torment to him in whom it abideth, a venome or quicksiluer, which consumeth the flesh, and drieth by the marrow of the bones.</p>
+            <p>Dissumulation is an euill humour of
+<pb facs="tcp:19763:13"/>the minde, and contrary to honesty: it is a countenance euer disagreeing from the hearts imaginations, and a notorious lyar in whatsoeuer it suggesteth.</p>
+            <p>The flatterie of an enemie is like the song of the Syren, it both inchaunts, de<g ref="char:EOLhyphen"/>ceiues, and brings to destruction.</p>
+            <p>He that is vainly carried away with all things, is never delighted with any one thing.</p>
+            <p>It is a common imperfection to com<g ref="char:EOLhyphen"/>mit folly, but an extraordinary perfection to amend it.</p>
+            <p>As no vermine will breed where they finde no w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmth, no Vultures sleepe where they find no prey, no flies swarme where they see no flesh, no Pilgrim creepe where there is no Crosse: so there is no flattering Parasite will lurke where he sindes no gaine.</p>
+            <p>He that mist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s without cause, is euer more credulous without proofe.</p>
+            <p>Causelesse suspition is the next way to make him doe euill, which otherwise would carry a constant resolution to ho<g ref="char:EOLhyphen"/>nestie.</p>
+            <p>Ignorance is that defect which causeth a man to iudge eui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of things, to delthe<g ref="char:EOLhyphen"/>rate
+<pb facs="tcp:19763:14"/>worse nor to know how to take pre<g ref="char:EOLhyphen"/>sent a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uantage of good things but to con<g ref="char:EOLhyphen"/>ceiue ill of whatsoeuer is good in mans life.</p>
+            <p>Crueltie is extreme wrong, the rigo<g ref="char:EOLhyphen"/>rous effect of an euill disposed will, am the fruit which is reapt from iniustice.</p>
+            <p>Feare and Cowardise are destitute of reason, alwayes attended on with two perturbations of the soule, <hi>Basenesse</hi> and <hi>Sadnesse:</hi> it is also a defeet of the vertue of Fortitude.</p>
+            <p>Quipe or scoffes are deprauings from the actions of other men, they are the ouerslowings of wit, and the superfluous sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m of conceits.</p>
+            <p>Carelesse men are euermore neere neighbours to their owne ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes.</p>
+            <lg>
+               <l>
+                  <hi>He that doth promise all,</hi>
+               </l>
+               <l>
+                  <hi>and nought doth gine,</hi>
+               </l>
+               <l>
+                  <hi>Dies with mens hate,</hi>
+               </l>
+               <l>
+                  <hi>with ilattery doth liue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>If friends to whom thou hast beene kinde,</hi>
+               </l>
+               <l>
+                  <hi>thy kindnesse nought regard:</hi>
+               </l>
+               <l>
+                  <hi>Accuse not Fate, but blame thy fault,</hi>
+               </l>
+               <l>
+                  <hi>be wiser afterward.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:19763:14"/>
+               <l>
+                  <hi>If wedded thou hast children store,</hi>
+               </l>
+               <l>
+                  <hi>and little wealth to giue:</hi>
+               </l>
+               <l>
+                  <hi>To bring them vp in idlenesse,</hi>
+               </l>
+               <l>
+                  <hi>most wretched shall they liue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>What is thy due thou maist require,</hi>
+               </l>
+               <l>
+                  <hi>or what seemes honest craue:</hi>
+               </l>
+               <l>
+                  <hi>But fooles doe euermore desire</hi>
+               </l>
+               <l>
+                  <hi>the thing they should not haue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Who feares to die, doth euer hold</hi>
+               </l>
+               <l>
+                  <hi>all follies foule effect:</hi>
+               </l>
+               <l>
+                  <hi>For such fond feare all ioy of life</hi>
+               </l>
+               <l>
+                  <hi>doth vtterly deiect.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>Keepe within Compasse in Apparell.</head>
+            <p>LEt the furniture and ornaments of thy person be fit and sutable for thy place and honour, but not too curio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: for the one becomes a man of wisedome, the other appertameth to persons effeminate, or such as delight in oftentation.</p>
+            <p>Thinke the best apparell thou canst
+<pb facs="tcp:19763:15"/>get from God is true felicitie, and the richest cloth of thine owne spinning, to b<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> good counsell.</p>
+            <p>It is better to bee poore and honest, than rich and wicked, for wistice is better ter than riches: the one dyes with the body, but the other liues as long as me<g ref="char:EOLhyphen"/>morie.</p>
+            <p>Whatsoeuer thou spendest in earthly vanities, they either die before thee, or shortly follow after thee.</p>
+            <p>Passe not by the poore as no part of thy rare, lest God in thy wants so turne away his face from thee.</p>
+            <p>Let the couetous man still his bagge neuer so full; the volup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uous man take his pleasure neuer so long; the ambiti<g ref="char:EOLhyphen"/>ous Court<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er build his house like his thoughts, neuer so high; the proud Lady paint neuer so thicke; the young man deferre repentance neuer so long, yet all must dye, all giue an account, all bée iudged.</p>
+            <p>Shun painted brauery, for it is a rio<g ref="char:EOLhyphen"/>tous excesse either in apparell, or other ornaments, it to also a part of pride, and contrary to decency and comelinesse.</p>
+            <p>Spend not bey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd thy power, nor hope
+<pb facs="tcp:19763:15"/>on others promise, for both are guides to beggery.</p>
+            <p>Bée not carelesse in spending thine owne wealth, that thou maist be estee<g ref="char:EOLhyphen"/>med carefull to preserue another mans substance.</p>
+            <p>How vaine a thing is brauery, which is borrowed from the wormes, laboured by the hands, bought with much charge, and defaced with euery spot.</p>
+            <p>All ontward ornaments are toyes of vanitie, but an humble spirit is a token of vanity.</p>
+            <p>As the weed cannot be esteemed preci<g ref="char:EOLhyphen"/>ous for the fatre flower which it beareth, so hold no man vertuous for the gay gar<g ref="char:EOLhyphen"/>ments be weareth.</p>
+            <p>Neuer be proud of thine Apparell since the colour cannot compare with Flowers, the fine threds with the Spiders webbe, nor the sweet persume with the Musk<g ref="char:EOLhyphen"/>cats excrements.</p>
+            <p>The onely commendable end of Mu<g ref="char:EOLhyphen"/>sicke is to prayse God.</p>
+            <p>Musicke vsed moderately like sleepe, is the bodies best recreation.</p>
+            <p>Nothing rauisheth the minde sooner than Muslcke, and no Musicke is more
+<pb facs="tcp:19763:16"/>sweet than mans voyce.</p>
+            <p>Patience excéedeth knowledge, and Musicke gotteth patience.</p>
+            <p>Ʋse Daucing for recreation, or <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e solemnities, yet euer with mode ration, for at such times a chaste minde knowes not how to be corrupted.</p>
+            <p>By all meanes shun pride in euery par<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of thee, for it is an vnreasonable des<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> enioy honours, estates, and great places it is a vice of excesse, and con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ary to m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>desty, which is a part of temperance.</p>
+            <p>Game for recreation, not lucre; for <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the blemished may reco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er some beautie, and let thy game laste of wit and scholer<g ref="char:EOLhyphen"/>ship, more than of sleight o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fortune.</p>
+            <p>Be temperate in all thine actions: for temperance is that light which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riuet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away the darknesse of all passions, it is of all vertues most wholsome: for it pre<g ref="char:EOLhyphen"/>serueth <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th publikely and priuatly hu<g ref="char:EOLhyphen"/>mane <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, it lifteth vp the soule most miserab<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> throwne downe in vice, and restoreth her againe into her place: it is also a matuall consent of the other parts of the soule, causing all disorder and vn<g ref="char:EOLhyphen"/>bridled affections to take reason for a rule and direction.</p>
+            <pb facs="tcp:19763:16"/>
+            <p> Constancie and temperance in thine actions, maketh Vertue strong.</p>
+            <p>Frugalitie is the badge of discretion.</p>
+            <p>He that is not pusfed vp with praise, nor affected with aduersities, nor mooued by slanders, nor corrupted by benefits, is fortunately most temperate.</p>
+            <p>There is nothing in the world better than moderation: for by it the assaults of the flesh are subdued, and the fruits of good life retained.</p>
+            <p>Temperance hath eight handmaids, <hi>Modestie, Shamefastnesse, Abstinence, Con<g ref="char:EOLhyphen"/>tinencie, Honestie, Moderation, Sparing,</hi> and <hi>Sobrietie.</hi>
+            </p>
+            <p>If thou wilt be iust, thou must be tem<g ref="char:EOLhyphen"/>perate: for it is the office of Iustice to haue his soule free from perturbations.</p>
+            <p>Be valiant, but coole in doing iniuries: a coward weares but the disguised maske of temperance, and is inwardly most re<g ref="char:EOLhyphen"/>uengefull.</p>
+            <p>He is worthy to be called a moderate person, which firmely gouerneth &amp; bride<g ref="char:EOLhyphen"/>leth (with reason) the vice of sensualit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and all other grosse affections of the minde.</p>
+            <p>Bée as farre from ambition a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from
+<pb facs="tcp:19763:17"/>deiection: the one is his owne slaue, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other all the worlds.</p>
+            <p>Preserus thy name: for that com<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from thine ancestors, but thy good repu<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> tion from thy vertues.</p>
+            <p>When greatnesse cannot beare it selfe with vertue nor ancestry, it ouerthrowe it selfe onely with the weight of it selfe.</p>
+            <lg>
+               <l>
+                  <hi>Spare for no cost in thine att<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ire,</hi>
+               </l>
+               <l>
+                  <hi>if cause require the same:</hi>
+               </l>
+               <l>
+                  <hi>A penny better spent than spar'd,</hi>
+               </l>
+               <l>
+                  <hi>addes to an honest name.</hi>
+               </l>
+               <l>
+                  <hi>Abandon superfluities,</hi>
+               </l>
+               <l>
+                  <hi>let comely things content<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Safe is the Barke on calmer Seas,</hi>
+               </l>
+               <l>
+                  <hi>to th'wished hauen bent.</hi>
+               </l>
+               <l>
+                  <hi>Eschew by ouer-nice attire,</hi>
+               </l>
+               <l>
+                  <hi>soule Enuies hatefull sting:</hi>
+               </l>
+               <l>
+                  <hi>Which though it hurt not, to endure</hi>
+               </l>
+               <l>
+                  <hi>it is an irke some thing.</hi>
+               </l>
+               <l>
+                  <hi>Flie wanton Ryot, and withall</hi>
+               </l>
+               <l>
+                  <hi>eschew the common Fame</hi>
+               </l>
+               <l>
+                  <hi>Of Auarice; both which extreames</hi>
+               </l>
+               <l>
+                  <hi>impaire a mans good name.</hi>
+               </l>
+               <l>
+                  <hi>Of wished health haue chiefest care,</hi>
+               </l>
+               <l>
+                  <hi>warme cloathing doe prouide,</hi>
+               </l>
+               <l>
+                  <hi>Light and vnwholesome garments are</hi>
+               </l>
+               <l>
+                  <hi>true Emblems of mans pride.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:19763:17"/>
+            <head>Out of Compasse in Apparell is Prodigalitie.</head>
+            <p>WHo fals into Prodigality, is drow<g ref="char:EOLhyphen"/>ned in the excesse of Liberalitie, which commiing to extremity, proues most vicious, wasting vertues faster than sub<g ref="char:EOLhyphen"/>stance, and substance faster than any ver<g ref="char:EOLhyphen"/>tue can get it.</p>
+            <p>Prodigalitie is the fire of the minde, whose heat is so violent, that it ceaseth not, whilest any matter combussible is present, to burne necessary things into dust and cinders.</p>
+            <p>To spend much without getting, to lay out all without reckoning, and to giue all without considering, are the true effects of Prodigalitie.</p>
+            <p>He that is sumptuous in his apparell, lauish of his tongue, and superfluous in his dyet; is the Cookes hope, the Taylors thrift, and the true sonne of repentance.</p>
+            <p>Riches lauishly spent, bring griefe to thy heart, discontent to thy friends, and misery to thine heires.</p>
+            <p>A proud eye, an open purse, and a light wise, brings mischiefe to the first, care to
+<pb facs="tcp:19763:18"/>the next, and hornes to the last.</p>
+            <p>An vnthrift is knowne, like a horse by his markes: as by the company <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> keepeth, the Tauerne hée haunteth, th<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Whore he maintaineth, and the expen<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he vseth.</p>
+            <p>Excossiue or couetous Gaming at Car<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or Dice, is a smooth sleight, and the eui<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Legerdemaine, whereby many rob wi<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> iustification.</p>
+            <p>How much the more running a ma<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is in Vice-play, so much the more he <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> corrupt in life and manners.</p>
+            <p>The Deuill was the first inuenter <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gaming.</p>
+            <p>Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing neither besesmeth the graui<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a Magistrate, nor the honour of a G<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> tleman, because the gaine is loaden wi<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> dishonest praitices, and the losse with b<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quiet passions.</p>
+            <p>When Pride is in the saddle, mischie<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and shame sit on the crooper.</p>
+            <p>Husbandmen esteeme more of the<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> eares of Corne that hang downe, than <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> those that stand vp straight: for in the<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is much graine, in the other chaffe.</p>
+            <p>The spring of pride is lying, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fountains of truth is humilitie.</p>
+            <pb facs="tcp:19763:18"/>
+            <p> Immoderate dauncing is the chiefest instrument of ryot and excesse.</p>
+            <p>Hunting is the exercise of a man, daun<g ref="char:EOLhyphen"/>cing of a woman. Yet one said, that a Dancer differs nothing from a mad-man, but onely in length of time, the one being mad so long as he liueth, the other whilst he daunceth.</p>
+            <p>They which loue dauncing too much, seeme to haue more braines in their feet than in their head, and thinke to play the fooles with reason.</p>
+            <p>Disagreeing Musicke and vaine pa<g ref="char:EOLhyphen"/>stimes are hinderances of delight.</p>
+            <p>One day takes from vs the credit of another, and the excesse of sundry sounds takes away all pleasure and delight in the sounds.</p>
+            <p>Those that seeke rather to decke their bodies than their Soules̄, seeme men rather created for their bodies than their Soules.</p>
+            <p>Excesse in vanitie hath neuer end.</p>
+            <p>Theft and the gallowes euer attend at the heeles of excesse.</p>
+            <p>He that imployes his substance in bra<g ref="char:EOLhyphen"/>uery, is the Mercers friend, the Taylors foole, and his owne enemy.</p>
+            <pb facs="tcp:19763:19"/>
+            <p> As you would iudge one to be ill at east that weareth a plaister vpon his face, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one that hath beene scourged, to be puni<g ref="char:EOLhyphen"/>shed by the Law, so you may know, that <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> painted face betokeneth a diseased soul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> marked with abultery.</p>
+            <p>Those which are curious in becking of the body, doe despise the care of th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> soule.</p>
+            <p>A young man intemperate and full of carnall affections, bringeth the body to old age much sooner with disease that time.</p>
+            <p>He cannot be a friend to temperance that delighteth in pleasure, nor loue go<g ref="char:EOLunhyphen"/>uernment that liketh Ryot.</p>
+            <p>Trim not thy house with Tables and Pictures, but paint it and guild it wi<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Temperance: the one vainely feedeth the eyes, the other is an eternall ornamen<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which cannot be defaced.</p>
+            <p>Where sundry flyes bite, the gall i<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> great, and where euery hand fleeceth, th<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> sheepe goe naked.</p>
+            <p>He that goeth a borrowing, euermor<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> goeth a sorrowing.</p>
+            <p>It is an ancient custome amongst the Masters of good cloathes, a shallow wit<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:19763:19"/>not to honour him that to the Common<g ref="char:EOLhyphen"/>wealth is most profitable, but him that to their company is most acceptable.</p>
+            <p>He that makes himselfe a sheepe, shall euer be eaten of the wolfe.</p>
+            <p>He that loseth fauour on land to seeke out fortune at sea, is like him that stares so long at a starre, till he fall into a ditch.</p>
+            <lg>
+               <l>
+                  <hi>Loose wits doe neuer keepe a meane,</hi>
+               </l>
+               <l>
+                  <hi>but spend their wealth too fast:</hi>
+               </l>
+               <l>
+                  <hi>Goods long in gathering oft are seene</hi>
+               </l>
+               <l>
+                  <hi>in little time to waste.</hi>
+               </l>
+               <l>
+                  <hi>Who spends his dead friends honest gift,</hi>
+               </l>
+               <l>
+                  <hi>or wastes his fortunes lot:</hi>
+               </l>
+               <l>
+                  <hi>At best is but a Prodigall,</hi>
+               </l>
+               <l>
+                  <hi>at worst a lauish sot.</hi>
+               </l>
+               <l>
+                  <hi>Of riches if thy latter age</hi>
+               </l>
+               <l>
+                  <hi>a larger portion finde,</hi>
+               </l>
+               <l>
+                  <hi>To grow more greedy by such gaine,</hi>
+               </l>
+               <l>
+                  <hi>shewes a base misers minde.</hi>
+               </l>
+               <l>
+                  <hi>Who doth elect a Wise alone</hi>
+               </l>
+               <l>
+                  <hi>for wealth and worldly store,</hi>
+               </l>
+               <l>
+                  <hi>Oft finds a thriftlesse Steward, and</hi>
+               </l>
+               <l>
+                  <hi>most commonly a whore.</hi>
+               </l>
+               <l>
+                  <hi>Vse what thou hast to doe thee good,</hi>
+               </l>
+               <l>
+                  <hi>but see thou make no waste:</hi>
+               </l>
+               <l>
+                  <hi>Who vainely spend their owne and want,</hi>
+               </l>
+               <l>
+                  <hi>seeke other mens at last.</hi>
+               </l>
+               <pb facs="tcp:19763:20"/>
+               <l>
+                  <hi>One blessed note of blessednesse,</hi>
+               </l>
+               <l>
+                  <hi>is riches to deny:</hi>
+               </l>
+               <l>
+                  <hi>Which who so couets to engrosse,</hi>
+               </l>
+               <l>
+                  <hi>liues alwayes beggerly.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>Keepe within Compasse in Dyet.</head>
+            <p>SV<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce Nature, but surfet not: supply the bodies need, but offend not.</p>
+            <p>Haunt not Tauernes, Brothéls or Ale houses: but beware the danger &amp; expence, the bane of body, soule, and substance.</p>
+            <p>Marke the fearfull end of notorious euill men, to abhor their wickednesse: marke the life of the godly, that thou mayest imitall it: obserue thy betters, respect the wise, accompany the honest, loue the religious.</p>
+            <p>Gouerne thy selfe with moderation and modestie in drinke, but if thou happer into company, arise &amp; depart, rather that be ouercome with drinking: for the spi<g ref="char:EOLhyphen"/>rit ouercome with wine, is like a coach<g ref="char:EOLhyphen"/>horse, who hauing ouerthrowne his ruler<g ref="char:EOLhyphen"/>runnes here and there without order, ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing no guide to direct him: so the Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is very much offended, when the vnder<g ref="char:EOLhyphen"/>standing
+<pb facs="tcp:19763:20"/>is distempered.</p>
+            <p>Moderate dyet is the wise mans cog<g ref="char:EOLhyphen"/>nizance: but surfet and banquetting a fooles paradise.</p>
+            <p>To liue well &amp; frugally, is to liue tem<g ref="char:EOLhyphen"/>perately: for there is great difference be<g ref="char:EOLhyphen"/>twéene liuing well &amp; liuing sumptuoussy: the one procéeds from discipline and mo<g ref="char:EOLhyphen"/>deration of the Soule contented with her owne riches: the other from lust and con<g ref="char:EOLhyphen"/>tempt of all order &amp; mediocritie, but at last the one is followed with shame, the other with eternall praise and commendation.</p>
+            <p>Continence in meat and drinke, is the beginning and foundation of skill.</p>
+            <p>Sobrietie retaines that in a wise mans thought, which a foole without discretion hath euermore in his mouth.</p>
+            <p>Make not thy belly the commanding part of thy body.</p>
+            <p>Remember as meat and drinke is food to preserue the body, so is Gods Word the nourishment of thy Soule.</p>
+            <p>The first draught thou drinkest should be for thirst; the second, for nourishment; the third, for pleasure, but the fourth is for madnesse.</p>
+            <p>Refraine from surfet, because it is
+<pb facs="tcp:19763:21"/>the parent of flesh, which is a vice fearing labour to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sue, and a desisting from the necessary actions both of body and minde: it in the sinke which receiueth all the fli<g ref="char:EOLhyphen"/>thy chann<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls of vice, and with that poy<g ref="char:EOLhyphen"/>sonous ayre inlecteth the Soule.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se not labour: for he that is idle, can neuer excell in any Art.</p>
+            <p>Make thy industry thy best compani<g ref="char:EOLhyphen"/>on: for surfet and idlenesse dulleth vnder<g ref="char:EOLhyphen"/>standing, nourisheth humors, choaketh the braine, hinders thrift, and displeaseth God.</p>
+            <p>An thy cups beware of presumption: for it is a violent passion of the will, and an vtter foe to prudence: it is that affe<g ref="char:EOLhyphen"/>ction which thrusteth and exposeth the bo<g ref="char:EOLhyphen"/>dy to dangers, presuming onely on vaine hope and imagination, without either ground or re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>son.</p>
+            <p>Vaunt not of victory before conquest, lest thy folly exceed thy valour.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly not from that thou shouldst follow, lest thou pursue thine owne destruction.</p>
+            <p>Take heed of rashnesse in resolution, and crueltie in conquest: for the one is wilfull, and the other wicked: and as the first wants wit, the latter wants grace.</p>
+            <pb facs="tcp:19763:21"/>
+            <p> To straine further than thy sleeue will stretch, is to leaue thy arme naked: and to skip beyond thy skill, is to leape, but not to know where to light.</p>
+            <p>If thou wilt surfet on pleasure, let it be in reioycing at that day wher in thy tongue hath not mis-said, and thy heart hath ear<g ref="char:EOLhyphen"/>nestly repented thy sinnes.</p>
+            <p>Take no pleasure to feede on thine ene<g ref="char:EOLhyphen"/>mles afflictions: for he that sitteth surest, may in a moment be ouerthrowne.</p>
+            <p>Since ioyes are short, modestly em<g ref="char:EOLhyphen"/>brace and feede on them when they come, for sorrowes headlong follow one ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>A wise man ought not to be puffed vp with pleasure, for it is the food of filthi<g ref="char:EOLhyphen"/>nesse: it killeth the body, weakneth the iudgement, and takes away vnderstan<g ref="char:EOLhyphen"/>ding.</p>
+            <p>He is not worthy the name of a man, that spends a whole day in pleasure.</p>
+            <lg>
+               <l>
+                  <hi>Thy sinne of surfer pardon not,</hi>
+               </l>
+               <l>
+                  <hi>doe penance for the same:</hi>
+               </l>
+               <l>
+                  <hi>Not Wine, but those abuse the gift</hi>
+               </l>
+               <l>
+                  <hi>are they deserue the blame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:19763:22"/>
+               <l>
+                  <hi>Sometimes for health spare dyet vse,</hi>
+               </l>
+               <l>
+                  <hi>for though of dainties store</hi>
+               </l>
+               <l>
+                  <hi>Dame Nature crane, yet to thy health</hi>
+               </l>
+               <l>
+                  <hi>thou art indebred more.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Be watchfull, and not vnto sleepe inclin'd,</hi>
+               </l>
+               <l>
+                  <hi>For drowsie sloth seeds but a vicious mind.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Be thine owne best Physitian,</hi>
+               </l>
+               <l>
+                  <hi>preferre thy health fore all:</hi>
+               </l>
+               <l>
+                  <hi>If euill dyet make thee sicke,</hi>
+               </l>
+               <l>
+                  <hi>blame neither Spring nor Fall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Flie banquetting, the bane of life,</hi>
+               </l>
+               <l>
+                  <hi>some honest businesse doe:</hi>
+               </l>
+               <l>
+                  <hi>An idle minde decayes it selfe,</hi>
+               </l>
+               <l>
+                  <hi>and wastes the-body too.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>At Feasts and Banquets busie not</hi>
+               </l>
+               <l>
+                  <hi>thy selfe with too much chat:</hi>
+               </l>
+               <l>
+                  <hi>Lest whilst thou wouldst be pleasant thought,</hi>
+               </l>
+               <l>
+                  <hi>thy talke be laughed at.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>To <hi>Venus</hi> damned pleasures prone,</hi>
+               </l>
+               <l>
+                  <hi>if thou thy selfe mistrust,</hi>
+               </l>
+               <l>
+                  <hi>Forbeare to feed on costly cates,</hi>
+               </l>
+               <l>
+                  <hi>as motiues vnto lust.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:19763:22"/>
+            <head>Out of Compasse in Dyet is Gluttony.</head>
+            <p>GLuttony or surfetting is the sworne enemy to Temperance, daughter to excesse and immoderate appetite: shee is healths bane, and humanities blemish, lifes Cockatrice, and the soules hell, ex<g ref="char:EOLhyphen"/>cept mercy wipe out the remembrance of so great a guilt.</p>
+            <p>Nothing can be more abiect and hurt<g ref="char:EOLhyphen"/>full, than to liue as a slaue to the plea<g ref="char:EOLhyphen"/>sures of the mouth and belly.</p>
+            <p>Diseases gather together in mans bo<g ref="char:EOLhyphen"/>dy, and proceed, no lesse of being too full, than being too emptie, and oftentimes a man hath more trouble to digest meat, than to get meat.</p>
+            <p>Gluttony dryeth the bones, and more dye by it than perish by the sword.</p>
+            <p>Gluttony stirreth vp to lust, anger, and loue in extremitie, extinguisheth vnder<g ref="char:EOLhyphen"/>standing, opinion, and memory.</p>
+            <p>Wine hath as much force as fire: for as soone as it ouertaketh one, it
+<pb facs="tcp:19763:23"/>dispatcheth him, it discloseth the secre<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the soule and troubleth the whole m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Men are sicke of those things whereby they liue: for there is no proper or pece<g ref="char:EOLhyphen"/>liar seed of diseases, but the corruption <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> those things within them which they cal<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the faults and errors they commit a<g ref="char:EOLhyphen"/>gainst them.</p>
+            <p>It is an old Prouerb (and most true,) Much meat, much malady.</p>
+            <p>Excesse came from <hi>As<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> to <hi>Rome,</hi> and ambition from <hi>Rome</hi> to all the world.</p>
+            <p>Seas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all vice hath <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ese three compa<g ref="char:EOLhyphen"/>nions: <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lt, blindnesse of vnderstanding then hardnesse of heart; and the last, want of grace.</p>
+            <p>Wine brings forth three grapes: the first of pleasure, the second of drunken<g ref="char:EOLhyphen"/>nesse, and the third of sorrow.</p>
+            <p>Steele is the glasse of beautie, and Wine is the glasse of the minde.</p>
+            <p>Drunkennesse is nothing else but a vo<g ref="char:EOLhyphen"/>luntary maonesse.</p>
+            <p>Wine hath drowned more men than the Sea hath deuoured.</p>
+            <p>Wine is the bloud of the earth, and the shame of such as abuse it.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urset breeds tolenesse, and idlenesse
+<pb facs="tcp:19763:23"/>is the onely nurse and nourisher of sensuall appetites, and the sole maintainer of wan<g ref="char:EOLhyphen"/>ton affections.</p>
+            <p>That Epicure that passeth his life slothfully without profit, ought to loose it without pitty.</p>
+            <p>Idlenesse and disguised cloathes make men women, women beasts, and beasts monsters.</p>
+            <p>Idlenesse and feasts are the root of de<g ref="char:EOLhyphen"/>speration, and desperation is a sorrowful<g ref="char:EOLhyphen"/>nesse without all hope of better fortune: a vice which safely shroudeth it selfe vnder the title of fortitude and valour, and tick<g ref="char:EOLhyphen"/>ling the vaine humours of the vaine-glori<g ref="char:EOLhyphen"/>ous, carries them to ignoble and indiscreet actions, to the vtter losse both of soules and bodies.</p>
+            <lg>
+               <l>
+                  <hi>To make both minde and body strong,</hi>
+               </l>
+               <l>
+                  <hi>no labour doe refuse:</hi>
+               </l>
+               <l>
+                  <hi>Th'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re wanton feasts which doe forbid,</hi>
+               </l>
+               <l>
+                  <hi>men recreation t'vse.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>When feasts and ryot haue consum'd</hi>
+               </l>
+               <l>
+                  <hi>and brought thee vnto griefe,</hi>
+               </l>
+               <l>
+                  <hi>Then be content with what the time</hi>
+               </l>
+               <l>
+                  <hi>shall yeeld for thy reliefe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:19763:24"/>
+               <l>
+                  <hi>Exile all sloth, and <hi>Cupid</hi> hath no might,</hi>
+               </l>
+               <l>
+                  <hi>His bow lies broke, his torch hath lost all ligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>But wallow still, and thou reuiu'st that flame</hi>
+               </l>
+               <l>
+                  <hi>Shall honour him, but bury thee in shame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Who doth attempt things past his strength,</hi>
+               </l>
+               <l>
+                  <hi>and not regards the paine,</hi>
+               </l>
+               <l>
+                  <hi>Puls danger on: but vnto good</hi>
+               </l>
+               <l>
+                  <hi>all's labour is in vaine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Who in his cups disdaines to heare,</hi>
+               </l>
+               <l>
+                  <hi>what profit may procure,</hi>
+               </l>
+               <l>
+                  <hi>Shall die accurst, since for his wealth</hi>
+               </l>
+               <l>
+                  <hi>he would not words endure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The wealth of the world none can want,</hi>
+               </l>
+               <l>
+                  <hi>that curbe his vaine desires,</hi>
+               </l>
+               <l>
+                  <hi>And measures his expence with what</hi>
+               </l>
+               <l>
+                  <hi>necessitie requires.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
